@@ -1,0 +1,25 @@
+* {
+    background-color: #dc143c;
+}
+h1{
+    font-family: Courier;
+    font-size: larger;
+}
+
+.info *{
+    border: solid;
+    padding: 15px;
+    margin: 15px;
+    background-color: #00ffff;
+}
+
+.info{
+
+font-family:  "Calibri";
+}
+
+.ghost{
+    display: flex;
+     justify-content: space-evenly;
+}
+    
